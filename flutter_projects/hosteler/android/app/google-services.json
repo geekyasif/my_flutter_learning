@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954372429194",
+    "project_id": "hosteler-4c187",
+    "storage_bucket": "hosteler-4c187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954372429194:android:bc277195e8f52683952473",
+        "android_client_info": {
+          "package_name": "com.example.hosteler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954372429194-npkcstiav8tunphtaog3a5msf734bnc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38NewoAfPSYvUrTVQGIagTt_n38wD3cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954372429194-npkcstiav8tunphtaog3a5msf734bnc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

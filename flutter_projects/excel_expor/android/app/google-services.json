@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031210227833",
+    "project_id": "exceltest-b524b",
+    "storage_bucket": "exceltest-b524b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031210227833:android:2b9a9106073a616a289ca8",
+        "android_client_info": {
+          "package_name": "com.example.excel_expor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031210227833-vnokqvhf3emkenge6nbiv7j27v7ielgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemIzBUhke5D4zosSUabs2aL8L5L7CEVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031210227833-vnokqvhf3emkenge6nbiv7j27v7ielgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
